@@ -4,7 +4,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-image: url(/Imagem/Brasa.jpg);
+    background-image: url(Imagem/Brasa.jpg);
     display: flex;
     justify-content: center;
 }
@@ -13,7 +13,7 @@ body{
     margin-top: 40px;
     height: 850px;
     width: 1300px;
-    background-image: url(/Imagem/Hamburger.jpg);
+    background-image: url(Imagem/Hamburger.jpg);
     background-size: cover;
 }
 
