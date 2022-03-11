@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(/Imagem/Brasa.jpg);
+    display: flex;
+    justify-content: center;
+}
+
+.content{
+    margin-top: 40px;
+    height: 850px;
+    width: 1300px;
+    background-image: url(/Imagem/Hamburger.jpg);
+    background-size: cover;
+}
+
+.Textos{
+    background-color: #FFFFFFBB;
+    padding: 20px;
+    margin-top: 180px;
+    margin-left: 20px;
+    height: 470px;
+    width: 350px;
+}
+
+.Formulario{
+    display:block;
+    align-items: center;
+}
+
+input{
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 80%;
+    border: none;
+    margin-left: 24px;
+}
+
+.Botao{
+    font-size: 25px;
+    height: 60px;
+    width: 70%;
+    box-sizing: border-box;
+    color: #FFF;
+    background-color: orange;
+    margin-left: 50px;
+}
+
+h1, h2, h3, p{
+    text-align: center;
+    margin-bottom: 20px;
+}
